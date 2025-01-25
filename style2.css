@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+    margin: 15px;
+    background-color: rgb(236, 63, 144);
+}
+
+H1, a, li{
+    color: purple;
+}
+
+li{
+    margin: 20px;
+}
+
+.link-header{
+    border: greenyellow solid 2px;
+    border-radius: 5px;
+    padding: 2px;
+    font-size: 30px;
+    margin: 50px;
+}
+
+a:hover{
+    color: greenyellow;
+    transition: all 0.4s;
+}
+
+li{
+    color: greenyellow;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+}
+
+img{
+    width: 200px;
+    height: 250px;
+    margin: 20px;
+    opacity: 0.2;
+    border: 3px solid greenyellow;
+}
+ img:hover{
+    transition: all 0.4s;
+    opacity: 1;
+}
