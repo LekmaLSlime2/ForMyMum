@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <title>Наши_с_тобой_фотографии</title>
+  </head>
+  <body>
+    <header>
+      <link rel="stylesheet" href="style2.css"/>
+    </header>
+    <main>
+      <h1>Тут я хочу показать 2 часть знаний создаваний сайтовБ которые я бы не получил, без тебя!!</h1>
+      <p>вот твоя одна из песен, которые ты слушаешь</p>
+      <iframe frameborder="0" allow="clipboard-write" style="border:none;width:100%;height:210px;" width="100%" height="210" src="https://music.yandex.ru/iframe/track/2215069/5060850">Слушайте <a href="https://music.yandex.ru/album/5060850/track/2215069">Конь</a> — <a href="https://music.yandex.ru/artist/430384">Любэ</a> на Яндекс Музыке</iframe>
+      <p>а вот несколько фото, которые ты мне отправила</p>
+      <img src="https://i.postimg.cc/DwYPLSh6/photo-5233498310118076134-y.jpg" alt="photo-5233498310118076134-y"/>
+      <img src="https://i.postimg.cc/25sd9gVB/photo-5233498310118076135-y.jpg" alt="photo-5233498310118076135-y"/>
+      <img src="https://i.postimg.cc/MGMbDzKS/photo-5233498310118076137-y.jpg" alt="photo-5233498310118076137-y"/>
+    </main>
+    <footer>
+      <a class="link-header" href="home.html">обратно</a>
+    </footer>
+  </body>
+</html>
